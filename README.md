@@ -1,4 +1,5 @@
-### Hi there 👋
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ultradaddy&count_private=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ultradaddy\&layout=compact" />
 
 <!--
 **ultradaddy/ultradaddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

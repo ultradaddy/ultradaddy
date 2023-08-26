@@ -1,7 +1,7 @@
 <div align="center">
-  <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ultradaddy&count_private=true&theme=midnight-purple" /></a></p>
-  <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ultradaddy\&layout=compact&theme=midnight-purple" /></a></p>
-  <p><a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=ultradaddy&style=flat-square&color=blue" /></a></p>
+  <div><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ultradaddy&count_private=true&theme=midnight-purple" /></a></div>
+  <div><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ultradaddy\&layout=compact&theme=midnight-purple" width="450px" /></a></div>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=ultradaddy&style=flat-square&color=blue" /></a>
 </div>
 
 ---

@@ -19,8 +19,8 @@ jobs:
           # Options
           user: ultradaddy
           template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Berlin
+          base: header, activity, community, metadata
+          config_timezone: Australia/Melbourne
           config_twemoji: yes
           plugin_habits: yes
           plugin_habits_charts_type: classic
@@ -29,7 +29,7 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
-          plugin_isocalendar: yes
+          plugin_isocalendar: no
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15

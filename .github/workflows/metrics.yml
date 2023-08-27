@@ -19,7 +19,7 @@ jobs:
           # Options
           user: ultradaddy
           template: classic
-          base: header, activity, community, metadata
+          base: header, activity, community
           config_timezone: Australia/Melbourne
           config_twemoji: yes
           plugin_habits: yes
@@ -46,3 +46,6 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}

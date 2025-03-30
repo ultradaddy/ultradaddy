@@ -14,8 +14,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          target_branch: output
-          build_dir: dist
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Options
@@ -23,6 +21,8 @@ jobs:
           template: classic
           base: header, activity, community
           config_timezone: Australia/Melbourne
+          output_action: commit
+          committer_branch: output
           config_twemoji: yes
           plugin_habits: yes
           plugin_habits_charts_type: classic

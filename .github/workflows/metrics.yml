@@ -14,6 +14,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          target_branch: output
+          build_dir: dist
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Options

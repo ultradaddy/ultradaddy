@@ -1,5 +1,5 @@
 <div align="center">
-  <div><a href="https://github.com/lowlighter/metrics"><img src="/github-metrics.svg" /></a></div>
+  <div><a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/ultradaddy/ultradaddy/output/github-metrics.svg" /></a></div>
   <div><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ultradaddy\&layout=compact&theme=midnight-purple" width="450px" /></a></div>
 
 ---
